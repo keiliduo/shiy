@@ -22,5 +22,11 @@ namespace shiy
         {
             return "Hello World";
         }
+
+        [WebMethod]
+        public string AddShiy()
+        {
+            return "1234";
+        }
     }
 }

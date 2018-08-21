@@ -5,3 +5,10 @@ C:\Users\Tree\source\repos\shiy\shiy\obj\Debug\shiy.csprojAssemblyReference.cach
 C:\Users\Tree\source\repos\shiy\shiy\obj\Debug\shiy.csproj.CoreCompileInputs.cache
 C:\Users\Tree\source\repos\shiy\shiy\obj\Debug\shiy.dll
 C:\Users\Tree\source\repos\shiy\shiy\obj\Debug\shiy.pdb
+C:\Users\Tree\Desktop\Temp\shiy\shiy\bin\shiy.dll.config
+C:\Users\Tree\Desktop\Temp\shiy\shiy\bin\shiy.dll
+C:\Users\Tree\Desktop\Temp\shiy\shiy\bin\shiy.pdb
+C:\Users\Tree\Desktop\Temp\shiy\shiy\obj\Debug\shiy.csprojAssemblyReference.cache
+C:\Users\Tree\Desktop\Temp\shiy\shiy\obj\Debug\shiy.csproj.CoreCompileInputs.cache
+C:\Users\Tree\Desktop\Temp\shiy\shiy\obj\Debug\shiy.dll
+C:\Users\Tree\Desktop\Temp\shiy\shiy\obj\Debug\shiy.pdb
